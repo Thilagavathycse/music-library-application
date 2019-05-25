@@ -1,7 +1,7 @@
 # music-library-application
 It enables you people to hear music ,set their own ring tone and record their ring tone also
 Login
-SETTINGS
+SETTING
 1.Language
 2.song type
 1.Latest
