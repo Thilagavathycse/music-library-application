@@ -1,0 +1,59 @@
+# music-library-application
+
+It enables you people to hear music ,set their own ring tone and record their ring tone also
+Login
+
+SETTING
+   
+1.Language
+SONG TYPE
+    
+2.Latest
+   
+3.top list
+   
+4.melody
+    
+5.movie wise
+    
+6.Theme wise
+    
+7.Shuffle all
+    
+8.Ring tone
+   
+9.Our Recordings
+    
+10.Clear all playlist
+    
+11.Recently added
+
+DOWNLOADS
+    
+1.Offline
+    
+2.suggestion for download
+    
+3.downloaded songs
+
+SEARCH
+    
+1.Theme wise
+    
+2.Song name
+    
+3.artist name
+   
+ 4.Movie wise
+
+SYNOPSIS
+    
+1.Name of the movie
+    
+2.Artist name
+    
+3.Play
+    
+4.delete
+    
+5.Set ring tone
